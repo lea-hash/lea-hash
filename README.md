@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-[캐글](https://www.kaggle.com/)
+- [캐글](https://www.kaggle.com/)
 
-[seaborn](https://seaborn.pydata.org/)
+- [seaborn](https://seaborn.pydata.org/)
 
-[notion](https://www.notion.so/1c398f8078258070a653fb87dd24ffa0)
+- [notion](https://www.notion.so/1c398f8078258070a653fb87dd24ffa0)
 
-[streamlit](https://streamlit.io/)
+- [streamlit](https://streamlit.io/)
 
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 
 
 
