@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+[캐글](https://www.kaggle.com/)
+[seaborn](https://seaborn.pydata.org/)
+[notion](https://www.notion.so/1c398f8078258070a653fb87dd24ffa0)
+
+
+
+
+
+
+
+
+
+
+
+
 # 가장 큰 제목
 ## 중간 큰 제목
 ### 제목
