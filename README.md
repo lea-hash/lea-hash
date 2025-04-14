@@ -32,12 +32,15 @@ print(10)
 ```
 ### 표 넣기
 ### 표 넣기
+
 | Left Align (default) | Center Align | Right Align |
 | ------------------- | ---------- | ---------- |
 | React.js             | Node.js      | MySQL       |
 | Next.js              | Express      | MongoDB     |
 | Vue.js               | Nest.js      | Redis       |
+
 ### 정렬
+
 | Left Align (default) | Center Align | Right Align |
 | :------------------- | :----------: | ----------: |
 | React.js             | Node.js      | MySQL       |
