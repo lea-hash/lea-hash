@@ -48,3 +48,6 @@ print(10)
 | React.js             | Node.js      | MySQL       |
 | Next.js              | Express      | MongoDB     |
 | Vue.js               | Nest.js      | Redis       |
+
+
+** 굵게 **
