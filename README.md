@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 -->
   - 들여쓰기
       - 더 들여쓰기
+### 링크 연결하기
+  - 링크 [이동](https://www.kaggle.com/code/leejina555/20250411-class/edit)
